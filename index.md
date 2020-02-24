@@ -1,4 +1,4 @@
-## Kostya Kravchenko Personal Blog
+## Kostya Kravchenko
 
 - [linkedin](https://linkedin.com/in/kkravchenko)
 - [github](https://github.com/kcostya)
