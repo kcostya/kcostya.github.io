@@ -1,5 +1,7 @@
 # About
 
+<img src="https://avatars2.githubusercontent.com/u/34856477?s=460&v=4" alt="alt text" width="150">
+
 An experienced professional with a long track record of success in business analytics (sales, marketing, supply chain), forecasting, and supply chain optimization.
 
 Implementing AI/Machine Learning solutions for a diverse range of business challenges. Research, prototyping, commercial products implementation, and team leadership.
