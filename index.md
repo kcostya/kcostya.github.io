@@ -1,5 +1,5 @@
-## Kostya Kravchenko
+## Contact me
 
 - [LinkedIn](https://linkedin.com/in/kkravchenko)
-- [GitHub](https://github.com/kcostya)
 - [Kaggle](https://kaggle.com/kcostya)
+- [GitHub](https://github.com/kcostya)
